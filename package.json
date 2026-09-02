@@ -1,6 +1,6 @@
 {
   "name": "thermal-compliance-suite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "B2B SaaS Multi-Tenant Platform for NBR 15575:2021 Building Thermal Performance Compliance & Legal Dossier Generation",
   "license": "MIT",
   "author": "Luca Rodrigues Gomes de Sant'Anna <lucasantannaeng@gmail.com>",
