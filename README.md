@@ -1,6 +1,14 @@
-# Thermal Compliance Suite
+# 🌡️ Thermal Compliance Suite — Building Envelope & HVAC Regulatory SaaS
 
-**White-Label B2B SaaS for Brazilian thermal performance compliance — ABNT NBR 15575:2021 / NBR 16401 / NBR 15220-3.**
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![ABNT Standards](https://img.shields.io/badge/ABNT-NBR%2015575%20%7C%2016401-E05A47.svg)](#why-it-exists)
+[![Supabase](https://img.shields.io/badge/Supabase-RLS%20Enforced-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+[![Vitest](https://img.shields.io/badge/Vitest-Passing-6E9F18?logo=vitest&logoColor=white)](https://vitest.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> **White-Label B2B SaaS for Brazilian thermal performance compliance — ABNT NBR 15575:2021 / NBR 16401 / NBR 15220-3.**
 
 Turns a validated TypeScript thermal engineering engine into a multi-tenant platform where HVAC and building-performance consultancies generate legally-structured calculation dossiers (Memorial de Cálculo) under their own brand.
 
